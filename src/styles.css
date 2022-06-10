@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+#boxes_battle {
+  display: flex;
+}
+.box {
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+}
+.bg {
+  background-color: red;
+}
